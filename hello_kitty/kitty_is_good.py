@@ -1,0 +1,2 @@
+python("kitty is bad")
+
